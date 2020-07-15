@@ -1,0 +1,1 @@
+# GerenciadorImagensFront_end
